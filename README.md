@@ -28,8 +28,6 @@ git clone https://github.com/rimu-7/react-vite-and-tailwind-themes.git && cd rea
 ### For Windows (Command Prompt)
 Open your Command Prompt and run the following command:
 
-cmd
-Copy Code
 ```bash
 git clone https://github.com/rimu-7/react-vite-and-tailwind-themes.git && cd react-vite-and-tailwind-themes && rmdir /s /q .git
 ```
